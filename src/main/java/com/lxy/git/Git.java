@@ -7,5 +7,6 @@ public class Git {
         System.out.println("liuxinying git3");
         System.out.println("liuxinying git4");
         System.out.println("master test");
+        System.out.println("hot-fix test");
     }
 }
